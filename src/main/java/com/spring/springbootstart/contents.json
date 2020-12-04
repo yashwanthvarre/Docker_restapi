@@ -1,0 +1,79 @@
+
+  [
+    {
+      "userId": 1,
+      "firstName": "yashwanth",
+      "lastName": "varre",
+      "phoneNumber": "1234",
+
+      "emailAddress": "yashwanthvarre@gmail.com",
+	  "orders": 
+			{
+				"order1": "biryani",
+				"order2": "pasta",
+				"order3": "samosa",
+				"order4": "curry"
+			}	
+		
+    },
+    {
+      "userId": 2,
+      "firstName": "manoj",
+      "lastName": "kumar",
+      "phoneNumber": "123456",
+      "emailAddress": "manojkumar22@gmail.com",
+	  "orders": 
+			{
+				"order1": "strawberry cake",
+				"order2": "vanila cake",
+				"order3": "cheese cake",
+				"order4": "choclate cake"
+			}	
+		
+    },
+    {
+      "userId": 3,
+      "firstName": "sasank",
+      "lastName": "yadav",
+      "phoneNumber": "33333244423",
+      "emailAddress": "sasankyadav@hotmail.com",
+	  "orders": 
+			{
+				"order1": "pot roast",
+				"order2": "udon",
+				"order3": "black bean noodles",
+				"order4": "fried chicken"
+			}	
+		
+    },
+    {
+      "userId": 4,
+      "firstName": "vamshi",
+      "lastName": "krishna",
+      "phoneNumber": "2232321778",
+      "emailAddress": "vamshikrishna@yahoo.com",
+	  "orders": 
+			{
+				"order1": "meat roll",
+				"order2": "chicken over rice",
+				"order3": "paneer butter masala",
+				"order4": "chicken tikka masala"
+			}	
+		
+    },
+    {
+      "userId": 5,
+      "firstName": "Akarsh",
+      "lastName": "varre",
+      "phoneNumber": "2526252",
+      "emailAddress": "akarshvarre@gmail.com",
+	  "orders": 
+			{
+				"order1": "panipuri",
+				"order2": "fresh salad",
+				"order3": "caviaer",
+				"order4": "fish cake"
+			}	
+		
+    }
+  ]
